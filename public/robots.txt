@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# The build adds the sitemap URL when productionUrl is configured.
